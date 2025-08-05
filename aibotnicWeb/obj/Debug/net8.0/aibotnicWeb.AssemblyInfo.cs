@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aibotnicWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+661dbd87509f8df80b27de44f0b9aef190e8fe2f")]
 [assembly: System.Reflection.AssemblyProductAttribute("aibotnicWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aibotnicWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
