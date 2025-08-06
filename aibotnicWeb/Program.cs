@@ -13,14 +13,14 @@ app.MapGet("/", async context =>
                     }
                     input, button {
                         color: red;
-                        border: 1px solid red;
+                        border: 2px solid red;
                         background-color: #ffe6e6;
                     }
                 </style>
             </head>
             <body>
                 <form method='post' action='/submit'>
-                    <label for='name'>Enter your name:</label>
+                    <label for='name'>Enter your name here:</label>
                     <input type='text' id='name' name='name' />
                     <button type='submit'>Submit</button>
                 </form>
