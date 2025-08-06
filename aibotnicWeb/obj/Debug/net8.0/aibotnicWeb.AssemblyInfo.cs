@@ -11,17 +11,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("aibotnicWeb")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+093d546f31c99fbd34fa66922a9e76a36e994b96")]
-=======
-<<<<<<< HEAD:aibotnicWeb/obj/Debug/net8.0/aibotnicWeb.AssemblyInfo.cs
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9d01bcb57afe3a9ccff55f6b07840a7c0d73d83")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6a44605bde7a3fd42796123997d5d9cb079bfff")]
->>>>>>> 093d546f31c99fbd34fa66922a9e76a36e994b96:aibotnicWeb/obj/Release/net8.0/aibotnicWeb.AssemblyInfo.cs
->>>>>>> f2d8a984425a5c4f614379874e356d444bcbaa2b
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9afaaf38d041d6fc26fbc9d22c8e23374fc68c5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("aibotnicWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aibotnicWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

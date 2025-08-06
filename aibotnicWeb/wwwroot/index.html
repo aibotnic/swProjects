@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Aibotnic Web</title>
+    <style>
+        body {
+            color: red;
+        }
+        input, button {
+            color: red;
+            border: 2px solid red;
+            background-color: #ffe6e6;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="/submit">
+        <label for="name">Enter your name here in html file:</label>
+        <input type="text" id="name" name="name" />
+        <button type="submit">Submit</button>
+    </form>
+
+<h2>Live Counter</h2>
+<button onclick="startCounting()">Count Now</button>
+<div id="counterOutput"></div>
+
+<script>
+    function startCounting() {
+        const output = document.getElementById("counterOutput");
+        output.innerHTML = ""; // Clear previous output
+
+        const eventSource = new EventSource("/count-stream");
+
+        eventSource.onmessage = function (event) {
+            const count = event.data;
+            output.innerHTML += `<p>Count: ${count}</p>`;
+            if (count === "10") {
+                eventSource.close(); // Stop after 10
+            }
+        };
+
+        eventSource.onerror = function () {
+            output.innerHTML += "<p style='color:red;'>Error receiving count.</p>";
+            eventSource.close();
+        };
+    }
+</script>
+
+
+</body>
+</html>

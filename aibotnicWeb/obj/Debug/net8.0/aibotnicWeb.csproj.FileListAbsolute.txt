@@ -23,3 +23,14 @@ c:\Users\aursnaga\swProjects\aibotnicWeb\obj\Debug\net8.0\refint\aibotnicWeb.dll
 c:\Users\aursnaga\swProjects\aibotnicWeb\obj\Debug\net8.0\aibotnicWeb.pdb
 c:\Users\aursnaga\swProjects\aibotnicWeb\obj\Debug\net8.0\aibotnicWeb.genruntimeconfig.cache
 c:\Users\aursnaga\swProjects\aibotnicWeb\obj\Debug\net8.0\ref\aibotnicWeb.dll
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+c:\Users\aursnaga\swProjects\aibotnicWeb\obj\Debug\net8.0\aibotnicWeb.sourcelink.json
+=======
+c:\Users\Sam\swProjects\swProjects\aibotnicWeb\bin\Debug\net8.0\aibotnicWeb.exe
+c:\Users\Sam\swProjects\swProjects\aibotnicWeb\bin\Debug\net8.0\aibotnicWeb.dll
+c:\Users\Sam\swProjects\swProjects\aibotnicWeb\bin\Debug\net8.0\aibotnicWeb.pdb
+>>>>>>> 093d546f31c99fbd34fa66922a9e76a36e994b96
+c:\Users\aursnaga\swProjects\aibotnicWeb\bin\Debug\net8.0\aibotnicWeb.staticwebassets.runtime.json
+>>>>>>> f2d8a984425a5c4f614379874e356d444bcbaa2b

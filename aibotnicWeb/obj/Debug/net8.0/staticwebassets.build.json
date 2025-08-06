@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "lbs8iOQU1cWJohxS+9KajKljbL42R2cNVpZYkNnChgs=",
+  "Source": "aibotnicWeb",
+  "BasePath": "_content/aibotnicWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "aibotnicWeb\\wwwroot",
+      "Source": "aibotnicWeb",
+      "ContentRoot": "c:\\Users\\aursnaga\\swProjects\\aibotnicWeb\\wwwroot\\",
+      "BasePath": "_content/aibotnicWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "c:\\Users\\aursnaga\\swProjects\\aibotnicWeb\\wwwroot\\index.html",
+      "SourceId": "aibotnicWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\aursnaga\\swProjects\\aibotnicWeb\\wwwroot\\",
+      "BasePath": "_content/aibotnicWeb",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
