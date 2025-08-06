@@ -1,4 +1,5 @@
 {
     "appService.preDeployTask": "publish-release",
-    "appService.deploySubpath": "aibotnicWeb/bin/Release/net8.0/publish"
+    "appService.deploySubpath": "aibotnicWeb\\bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/50a2b1d1-39aa-41f4-ab14-9edb5d6cb4db/resourceGroups/aibotnicWeb_group/providers/Microsoft.Web/sites/aibotnicWeb"
 }
