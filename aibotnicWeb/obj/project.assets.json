@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aursnaga\\.nuget\\packages\\": {}
+    "C:\\Users\\Sam\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\aursnaga\\swProjects\\aibotnicWeb\\aibotnicWeb.csproj",
+      "projectUniqueName": "c:\\Users\\Sam\\swProjects\\swProjects\\aibotnicWeb\\aibotnicWeb.csproj",
       "projectName": "aibotnicWeb",
-      "projectPath": "c:\\Users\\aursnaga\\swProjects\\aibotnicWeb\\aibotnicWeb.csproj",
-      "packagesPath": "C:\\Users\\aursnaga\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\aursnaga\\swProjects\\aibotnicWeb\\obj\\",
+      "projectPath": "c:\\Users\\Sam\\swProjects\\swProjects\\aibotnicWeb\\aibotnicWeb.csproj",
+      "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Sam\\swProjects\\swProjects\\aibotnicWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aursnaga\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
