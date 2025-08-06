@@ -1,0 +1,7 @@
+C:\Users\Sam\swProjects\swProjects\aibotnicWeb\bin\Release\net8.0\publish\aibotnicWeb.exe
+C:\Users\Sam\swProjects\swProjects\aibotnicWeb\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Sam\swProjects\swProjects\aibotnicWeb\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Sam\swProjects\swProjects\aibotnicWeb\bin\Release\net8.0\publish\aibotnicWeb.dll
+C:\Users\Sam\swProjects\swProjects\aibotnicWeb\bin\Release\net8.0\publish\aibotnicWeb.deps.json
+C:\Users\Sam\swProjects\swProjects\aibotnicWeb\bin\Release\net8.0\publish\aibotnicWeb.runtimeconfig.json
+C:\Users\Sam\swProjects\swProjects\aibotnicWeb\bin\Release\net8.0\publish\aibotnicWeb.pdb

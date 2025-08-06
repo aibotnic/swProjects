@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Sam\\swProjects\\swProjects\\aibotnicWeb\\aibotnicWeb.csproj": {}
+    "C:\\Users\\Sam\\swProjects\\swProjects\\aibotnicWeb\\aibotnicWeb.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Sam\\swProjects\\swProjects\\aibotnicWeb\\aibotnicWeb.csproj": {
+    "C:\\Users\\Sam\\swProjects\\swProjects\\aibotnicWeb\\aibotnicWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Sam\\swProjects\\swProjects\\aibotnicWeb\\aibotnicWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Sam\\swProjects\\swProjects\\aibotnicWeb\\aibotnicWeb.csproj",
         "projectName": "aibotnicWeb",
-        "projectPath": "c:\\Users\\Sam\\swProjects\\swProjects\\aibotnicWeb\\aibotnicWeb.csproj",
+        "projectPath": "C:\\Users\\Sam\\swProjects\\swProjects\\aibotnicWeb\\aibotnicWeb.csproj",
         "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Sam\\swProjects\\swProjects\\aibotnicWeb\\obj\\",
+        "outputPath": "C:\\Users\\Sam\\swProjects\\swProjects\\aibotnicWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config"
