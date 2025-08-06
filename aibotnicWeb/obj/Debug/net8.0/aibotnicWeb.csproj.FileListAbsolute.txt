@@ -30,3 +30,4 @@ c:\Users\Sam\swProjects\swProjects\aibotnicWeb\bin\Debug\net8.0\aibotnicWeb.exe
 c:\Users\Sam\swProjects\swProjects\aibotnicWeb\bin\Debug\net8.0\aibotnicWeb.dll
 c:\Users\Sam\swProjects\swProjects\aibotnicWeb\bin\Debug\net8.0\aibotnicWeb.pdb
 >>>>>>> 093d546f31c99fbd34fa66922a9e76a36e994b96
+c:\Users\aursnaga\swProjects\aibotnicWeb\bin\Debug\net8.0\aibotnicWeb.staticwebassets.runtime.json
