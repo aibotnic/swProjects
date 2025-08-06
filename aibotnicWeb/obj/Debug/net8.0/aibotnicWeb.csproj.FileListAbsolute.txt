@@ -23,3 +23,4 @@ c:\Users\aursnaga\swProjects\aibotnicWeb\obj\Debug\net8.0\refint\aibotnicWeb.dll
 c:\Users\aursnaga\swProjects\aibotnicWeb\obj\Debug\net8.0\aibotnicWeb.pdb
 c:\Users\aursnaga\swProjects\aibotnicWeb\obj\Debug\net8.0\aibotnicWeb.genruntimeconfig.cache
 c:\Users\aursnaga\swProjects\aibotnicWeb\obj\Debug\net8.0\ref\aibotnicWeb.dll
+c:\Users\aursnaga\swProjects\aibotnicWeb\obj\Debug\net8.0\aibotnicWeb.sourcelink.json
